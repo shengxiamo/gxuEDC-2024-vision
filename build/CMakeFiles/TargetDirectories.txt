@@ -1,0 +1,3 @@
+/home/ysj/桌面/EDC-gxu/build/CMakeFiles/OpenCV_Camera_Rectangle_Detection.dir
+/home/ysj/桌面/EDC-gxu/build/CMakeFiles/edit_cache.dir
+/home/ysj/桌面/EDC-gxu/build/CMakeFiles/rebuild_cache.dir
